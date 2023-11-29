@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![PiwkaNorbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiwkaNorbert)](https://github.com/PiwkaNorbert/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=PiwkaNorbert&color=yellow)
 <!--
+[![PiwkaNorbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiwkaNorbert)](https://github.com/PiwkaNorbert/github-readme-stats)
 **PiwkaNorbert/PiwkaNorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
