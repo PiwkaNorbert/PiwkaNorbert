@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=PiwkaNorbert&color=yellow)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiwkaNorbert&hide_progress=true)
 <!--
 [![PiwkaNorbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiwkaNorbert)](https://github.com/PiwkaNorbert/github-readme-stats)
 **PiwkaNorbert/PiwkaNorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
